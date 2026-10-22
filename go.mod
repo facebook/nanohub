@@ -1,6 +1,6 @@
 module github.com/micromdm/nanohub
 
-go 1.19
+go 1.25.0
 
 require (
 	github.com/alexedwards/flow v0.0.0-20220806114457-cf11be9e0e03
@@ -21,7 +21,7 @@ require (
 	github.com/jessepeterson/mdmcommands v0.0.0-20251210055310-75943edf7c59 // indirect
 	github.com/peterbourgon/diskv/v3 v3.0.1 // indirect
 	github.com/smallstep/pkcs7 v0.2.1 // indirect
-	golang.org/x/crypto v0.33.0 // indirect
-	golang.org/x/net v0.34.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
 )
